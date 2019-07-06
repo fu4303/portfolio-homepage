@@ -1,3 +1,3 @@
 # chrieke.github.io
 
-Personal website
+Personal website: [https://chrieke.github.io](https://chrieke.github.io)
